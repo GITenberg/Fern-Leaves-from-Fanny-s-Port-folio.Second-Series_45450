@@ -1,0 +1,37 @@
+_repo: Fern-Leaves-from-Fanny-s-Port-folio.Second-Series_45450
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Coffin, Frederick M.
+    gutenberg_agent_id: '43292'
+    url: http://www.gutenberg.org/2009/agents/43292
+covers:
+- cover_type: archival
+  image_path: 45450-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fern, Fanny
+    aliases:
+    - Parton, Sara Payson Willis
+    - Willis, Grata Payson
+    birthdate: 1811
+    deathdate: 1872
+    gutenberg_agent_id: '9387'
+    url: http://www.gutenberg.org/2009/agents/9387
+description: Largely short stories, plus some satiric advice and commentary articles.
+gutenberg_issued: '2014-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45450'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'American essays -- 19th century'
+- !lcc 'PS'
+title: 'Fern Leaves from Fanny''s Port-folio.
+
+  Second Series'
+url: http://www.gutenberg.org/ebooks/45450
